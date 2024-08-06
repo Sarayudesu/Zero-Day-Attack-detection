@@ -56,7 +56,7 @@ If you encounter any issues or have questions about the project, please check th
 
 ## Contributing
 
-![Handshake](https://github.githubassets.com/images/icons/emoji/unicode/1f91d.png)
+(https://github.githubassets.com/images/icons/emoji/unicode/1f91d.png)
 
 Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/Sarayudesu/Zero-Day-Attack-detection/issues).
 
@@ -65,5 +65,3 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 - [Sarayudesu](https://github.com/Sarayudesu)
 
 ---
-
-Feel free to customize this template further based on the specific details of your project.
