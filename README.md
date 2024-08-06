@@ -2,7 +2,7 @@
 
 ## Overview
 
-Zero-Day Attack Detection is an advanced security tool designed to identify and mitigate zero-day vulnerabilities before they can be exploited by malicious actors. Utilizing cutting-edge AI and machine learning algorithms, this project aims to enhance the security of systems by detecting unknown threats in real-time.
+Zero-Day Attack Detection is an advanced security tool designed to identify and mitigate zero-day vulnerabilities before they can be exploited by malicious acttackers. Utilizing cutting-edge AI and machine learning algorithms (Autoecoders and MLP), this project aims to enhance the security of systems by detecting unknown threats.
 
 ## Features
 
