@@ -56,8 +56,6 @@ If you encounter any issues or have questions about the project, please check th
 
 ## Contributing
 
-(https://github.githubassets.com/images/icons/emoji/unicode/1f91d.png)
-
 Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/Sarayudesu/Zero-Day-Attack-detection/issues).
 
 ## Maintainers
